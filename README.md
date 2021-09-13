@@ -9,4 +9,4 @@
 
 ![Phillip's github stats](https://github-readme-stats.vercel.app/api?username=pmortari&show_icons=true&theme=dracula)
 
-[![Counter](https://vistr.dev/badge?repo=pmortari.pmortari&corners=square)](https://github.com/pmortari/vistr.dev)
+[![Counter](https://vistr.dev/badge?repo=pmortari.pmortari&corners=square)](https://github.com/pmortari/)
